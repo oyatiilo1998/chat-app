@@ -1,0 +1,76 @@
+{
+  "login": {
+    "username": "123qwe",
+    "password": "123123"
+  },
+  "chat-users": [
+    {
+      "username": "oyatillo",
+      "id": 1,
+      "unreadMessages": 0,
+      "active": false
+    },
+    {
+      "username": "sardor",
+      "id": 2,
+      "unreadMessages": 2,
+      "active": false
+    },
+    {
+      "username": "mamur",
+      "id": 3,
+      "unreadMessages": 2,
+      "active": false
+    },
+    {
+      "username": "marif",
+      "id": 4,
+      "unreadMessages": 2,
+      "active": false
+    },
+    {
+      "username": "sanjar",
+      "id": 5,
+      "unreadMessages": 2,
+      "active": false
+    },
+    {
+      "username": "salim",
+      "id": 6,
+      "unreadMessages": 2,
+      "active": false
+    }
+  ],
+  "messages": [
+    {
+      "id": 1,
+      "msg": [
+        {
+          "messages": [
+            "ertaga",
+            "gomi"
+          ],
+          "date": "6 June, 2022",
+          "own": true
+        },
+        {
+          "messages": [
+            "yo",
+            "sorry"
+          ],
+          "date": "7 June, 2022",
+          "own": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "messages": [
+        "yo",
+        "sorry"
+      ],
+      "date": "7 June, 2022",
+      "own": false
+    }
+  ]
+}
